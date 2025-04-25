@@ -82,7 +82,7 @@ Performance comparison with ten SOTA methods on 3 medical image datasets.
 
 We compare our method against 8 state-of-the-art methods. The red box indicates the area of incorrect predictions.
 
-## 8. Acknowledgement:
+📆 Acknowledgement:
 
 Thanks to UltraLight-VM-UNet for his outstanding works.
 
